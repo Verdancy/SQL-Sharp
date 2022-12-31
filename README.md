@@ -1,6 +1,6 @@
 ![](https://img.shields.io/packagist/dt/Verdancy/SQL-Sharp.svg) ![](https://img.shields.io/github/last-commit/Vverdancy/SQL-Sharp.svg) ![](https://img.shields.io/github/license/Verdancy/SQL-Sharp.svg)
 
-#SQL Sharp
+# SQL Sharp
 
 This library makes it possible to interact with SQL like most c# objects. It was originally going to only be SQLite but I split it off so that the SQL is separate in case it gets expanded into MYSQL and SQLServer.
 

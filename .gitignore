@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SQLSharp/v15
+/SQLiteSharp/bin/Debug/netstandard2.0
+/SQLiteSharp/obj
+/SQLiteSharpTester/bin/Debug
+/SQLiteSharpTester/bin/Release
+/SQLiteSharpTester/obj
+/SQLSharp/bin
+/SQLSharp/obj
+/.vs

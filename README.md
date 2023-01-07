@@ -41,4 +41,3 @@ To Access the data from the query
             while (reader.Read())
                 Console.WriteLine($"{reader["ID"]} {reader["Name"]} {reader["Address"]} {reader["City"]} {reader["State"]} {reader["Zip"]}");
 ```
-

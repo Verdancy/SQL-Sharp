@@ -43,5 +43,3 @@ To Access the data from the query
 ```
 
 
-
-
